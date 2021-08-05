@@ -1,6 +1,6 @@
 # ZoomZoom
 
-__Version:__ 1.14+
+__Version:__ 1.12+
 
 __By:__ MRBBATES1
 
